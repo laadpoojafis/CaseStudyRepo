@@ -1,1 +1,2 @@
-This is merge file
+This is merge for second branch
+
